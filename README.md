@@ -1,4 +1,3 @@
-# 126test
+# WDDM 126 – Git Fundamentals Lab
 
-This is a simple website created using HTML,
-CSS, and JavaScript.
+This repository is used to practice basic Git workflows.
